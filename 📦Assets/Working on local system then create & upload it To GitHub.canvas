@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"3fc46e508b1a21d8","type":"text","text":"Complete the project","x":-620,"y":-300,"width":250,"height":60},
+		{"id":"4a72d633108f3dc5","type":"text","text":"Create a *README.md* file","x":-310,"y":-295,"width":280,"height":50},
+		{"id":"473b067cb2298f2c","type":"text","text":"Initialize Git\n```\ngit init\n```","x":60,"y":-330,"width":200,"height":120},
+		{"id":"46fa511ae32fcc2b","type":"text","text":"Create a remote repo without *README.md*","x":-40,"y":-160,"width":400,"height":60},
+		{"id":"20ec022dd8ba84f7","type":"text","text":" Connect our Git to remote repo\n```\n git remote add origin <--Link_provided_at_GitHub-->\n```","x":-130,"y":-40,"width":580,"height":120},
+		{"id":"00c1072375336131","type":"text","text":" Rename core branch from master to main\n```\n git branch -M main\n```","x":-620,"y":-40,"width":395,"height":120},
+		{"id":"84a1db90fff34604","x":-590,"y":180,"width":335,"height":254,"type":"text","text":"Upload to remote repo.\n```\n git push -u origin main\n```\n\nOr,\n\n```\ngit push\n```"}
+	],
+	"edges":[
+		{"id":"6f69e871ed926aee","fromNode":"3fc46e508b1a21d8","fromSide":"right","toNode":"4a72d633108f3dc5","toSide":"left"},
+		{"id":"f95bf28117f44802","fromNode":"4a72d633108f3dc5","fromSide":"right","toNode":"473b067cb2298f2c","toSide":"left"},
+		{"id":"9878d5f3e8564e27","fromNode":"473b067cb2298f2c","fromSide":"bottom","toNode":"46fa511ae32fcc2b","toSide":"top"},
+		{"id":"2d47d4caa24b4721","fromNode":"46fa511ae32fcc2b","fromSide":"bottom","toNode":"20ec022dd8ba84f7","toSide":"top"},
+		{"id":"e82b53e626989bdb","fromNode":"20ec022dd8ba84f7","fromSide":"left","toNode":"00c1072375336131","toSide":"right"},
+		{"id":"e4162bd46ebaa388","fromNode":"00c1072375336131","fromSide":"bottom","toNode":"84a1db90fff34604","toSide":"top"}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"cfeaa3ec46b1bdb4","type":"text","text":"Creating GitHub repo","x":-575,"y":-620,"width":250,"height":60},
+		{"id":"a56ec456ba59416e","type":"text","text":"Cloning a repository\n```\ngit clone <--some_link-->\n```\n","x":-610,"y":-350,"width":320,"height":140},
+		{"id":"7f3a1734ca5ccd9f","type":"text","text":"Upload to remote repo.\n```\n git push -u origin main\n```\n\nOr,\n\n```\ngit push\n```","x":-62,"y":-680,"width":300,"height":240},
+		{"id":"f883c78573975f4a","type":"text","text":"Finalized the changes.\n```\n git commit -m \"<--some meaningful massage-->\"\n```\n","x":-160,"y":-380,"width":495,"height":120},
+		{"id":"a43d304449e948be","type":"text","text":"Add *untracked* or *modified* file to the local repo\n```\ngit add <--file_name-->\t\t\t\n# to add all file use file name --> .\n```\n\n","x":-120,"y":-160,"width":415,"height":160},
+		{"id":"c646ff9d6ebfe0a0","type":"text","text":"Changing in to the project","x":-581,"y":-30,"width":263,"height":60}
+	],
+	"edges":[
+		{"id":"d6f4ed596a8acd2b","fromNode":"cfeaa3ec46b1bdb4","fromSide":"bottom","toNode":"a56ec456ba59416e","toSide":"top"},
+		{"id":"7541a41e4638322c","fromNode":"a56ec456ba59416e","fromSide":"bottom","toNode":"c646ff9d6ebfe0a0","toSide":"top"},
+		{"id":"4484ccd106158272","fromNode":"c646ff9d6ebfe0a0","fromSide":"right","toNode":"a43d304449e948be","toSide":"left"},
+		{"id":"0c4d85d5ec4e7f52","fromNode":"a43d304449e948be","fromSide":"top","toNode":"f883c78573975f4a","toSide":"bottom"},
+		{"id":"df83ec26a81296a3","fromNode":"f883c78573975f4a","fromSide":"top","toNode":"7f3a1734ca5ccd9f","toSide":"bottom"}
+	]
+}
