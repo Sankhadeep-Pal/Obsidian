@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "a4ee13509400757b",
+    "type": "split",
+    "children": [
+      {
+        "id": "84c48ea40095ac3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d8bc6c787a266cb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "📦Assets/Working on local system then create & upload it To GitHub.canvas",
+                "viewState": {
+                  "x": -73.92095141700355,
+                  "y": 69.72647773279348,
+                  "zoom": -0.2525313734537665
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Working on local system then create & upload it To GitHub"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c37a18a5ccb2e49",
+    "type": "split",
+    "children": [
+      {
+        "id": "daeb5c44dc013177",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caa51a5a860dbb3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a197f6848eb60dcd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Git",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e1a12329d4b2d8a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252
+  },
+  "right": {
+    "id": "e6411fbcd6408233",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d292a46034dc413",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7bc437e3117dbd1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "📔Notes/Git & GitHub Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Git & GitHub Notes"
+            }
+          },
+          {
+            "id": "b9586e683219a1e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8c0c71b4607d73c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📦Assets/Working on local system then create & upload it To GitHub.canvas",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Working on local system then create & upload it To GitHub"
+            }
+          },
+          {
+            "id": "0c970d93d95b318e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5d8bc6c787a266cb",
+  "lastOpenFiles": [
+    "📔Notes/Git & GitHub Notes.md",
+    "📔Notes/HTML Notes.md",
+    "📦Assets/Initializing through GitHub then clone it.canvas",
+    "✅Short knowledge/SEO.md",
+    "📦Assets/Screenshot From 2025-06-11 18-30-19.png",
+    "📜Instructions/Removing old kernel.md",
+    "📦Assets/6076c72b-06d5-48c2-8fbc-a9442b75c05a.png",
+    "📦Assets/git-cheat-sheet-education.pdf",
+    "✅Short knowledge/Integrated Development Environment.md",
+    "💬Roughs/Untitled.md",
+    "✅Short knowledge/Pull Request.md",
+    "✅Short knowledge/version control system.md",
+    "✅Short knowledge/personal access token.md",
+    "✅Short knowledge",
+    "📦Assets/Screenshot From 2025-06-04 22-33-25.png",
+    "Working on local system then create & upload it To GitHub.md",
+    "📦Assets/Working on local system then create & upload it To GitHub.canvas",
+    "Creating new repo without README.md.canvas",
+    "2025-06-03.md",
+    "Git & Git hub tutorial.md",
+    "💬Roughs",
+    "📜Instructions",
+    "📔Notes",
+    "📦Assets",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
