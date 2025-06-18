@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📔Notes/3. CSS Notes.md",
+                "file": "📔Notes/2. HTML Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "3. CSS Notes"
+              "title": "2. HTML Notes"
             }
           }
         ]
@@ -124,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📔Notes/3. CSS Notes.md",
+                "file": "📔Notes/2. HTML Notes.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. CSS Notes"
+              "title": "Outline of 2. HTML Notes"
             }
           },
           {
@@ -162,8 +162,8 @@
   },
   "active": "d723c75ffe0a0241",
   "lastOpenFiles": [
-    "📔Notes/2. HTML Notes.md",
     "📔Notes/3. CSS Notes.md",
+    "📔Notes/2. HTML Notes.md",
     "📦Assets/html.pdf",
     "📦Assets/css.pdf",
     "📔Notes/3. CSS Notes 1.md",
