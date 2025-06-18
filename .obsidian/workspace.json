@@ -4,24 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "84c48ea40095ac3e",
+        "id": "b1271f74bdf6fe1d",
         "type": "tabs",
         "children": [
           {
-            "id": "5d8bc6c787a266cb",
+            "id": "d723c75ffe0a0241",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "📦Assets/Working on local system then create & upload it To GitHub.canvas",
-                "viewState": {
-                  "x": -73.92095141700355,
-                  "y": 69.72647773279348,
-                  "zoom": -0.2525313734537665
-                }
+                "file": "📔Notes/3. CSS Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Working on local system then create & upload it To GitHub"
+              "icon": "lucide-file",
+              "title": "3. CSS Notes"
             }
           }
         ]
@@ -126,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📦Assets/Working on local system then create & upload it To GitHub.canvas",
+                "file": "📔Notes/3. CSS Notes.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Working on local system then create & upload it To GitHub"
+              "title": "Outline of 3. CSS Notes"
             }
           },
           {
@@ -162,10 +160,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d8bc6c787a266cb",
+  "active": "d723c75ffe0a0241",
   "lastOpenFiles": [
-    "📔Notes/Git & GitHub Notes.md",
-    "📔Notes/HTML Notes.md",
+    "📔Notes/2. HTML Notes.md",
+    "📔Notes/3. CSS Notes.md",
+    "📦Assets/html.pdf",
+    "📦Assets/css.pdf",
+    "📔Notes/3. CSS Notes 1.md",
+    "📦Assets/Screenshot From 2025-06-18 11-51-52.png",
+    "✅Short knowledge/Hexadecimal.md",
+    "📔Notes/1. Git & GitHub Notes.md",
+    "💬Roughs/Untitled.md",
+    "📦Assets/Working on local system then create & upload it To GitHub.canvas",
     "📦Assets/Initializing through GitHub then clone it.canvas",
     "✅Short knowledge/SEO.md",
     "📦Assets/Screenshot From 2025-06-11 18-30-19.png",
@@ -173,14 +179,12 @@
     "📦Assets/6076c72b-06d5-48c2-8fbc-a9442b75c05a.png",
     "📦Assets/git-cheat-sheet-education.pdf",
     "✅Short knowledge/Integrated Development Environment.md",
-    "💬Roughs/Untitled.md",
     "✅Short knowledge/Pull Request.md",
     "✅Short knowledge/version control system.md",
     "✅Short knowledge/personal access token.md",
     "✅Short knowledge",
     "📦Assets/Screenshot From 2025-06-04 22-33-25.png",
     "Working on local system then create & upload it To GitHub.md",
-    "📦Assets/Working on local system then create & upload it To GitHub.canvas",
     "Creating new repo without README.md.canvas",
     "2025-06-03.md",
     "Git & Git hub tutorial.md",
