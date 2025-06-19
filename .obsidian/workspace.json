@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📔Notes/2. HTML Notes.md",
+                "file": "📔Notes/3. CSS Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2. HTML Notes"
+              "title": "3. CSS Notes"
             }
           }
         ]
@@ -124,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📔Notes/2. HTML Notes.md",
+                "file": "📔Notes/3. CSS Notes.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. HTML Notes"
+              "title": "Outline of 3. CSS Notes"
             }
           },
           {
@@ -162,22 +162,23 @@
   },
   "active": "d723c75ffe0a0241",
   "lastOpenFiles": [
+    "📦Assets/Screenshot From 2025-06-19 21-54-56.png",
+    "📦Assets/Screenshot From 2025-06-11 18-30-19.png",
+    "📦Assets/Initializing through GitHub then clone it.canvas",
+    "📦Assets/git-cheat-sheet-education.pdf",
+    "📦Assets/6076c72b-06d5-48c2-8fbc-a9442b75c05a.png",
     "📔Notes/3. CSS Notes.md",
     "📔Notes/2. HTML Notes.md",
+    "📔Notes/1. Git & GitHub Notes.md",
+    "💬Roughs/Untitled.md",
     "📦Assets/html.pdf",
     "📦Assets/css.pdf",
     "📔Notes/3. CSS Notes 1.md",
     "📦Assets/Screenshot From 2025-06-18 11-51-52.png",
     "✅Short knowledge/Hexadecimal.md",
-    "📔Notes/1. Git & GitHub Notes.md",
-    "💬Roughs/Untitled.md",
     "📦Assets/Working on local system then create & upload it To GitHub.canvas",
-    "📦Assets/Initializing through GitHub then clone it.canvas",
     "✅Short knowledge/SEO.md",
-    "📦Assets/Screenshot From 2025-06-11 18-30-19.png",
     "📜Instructions/Removing old kernel.md",
-    "📦Assets/6076c72b-06d5-48c2-8fbc-a9442b75c05a.png",
-    "📦Assets/git-cheat-sheet-education.pdf",
     "✅Short knowledge/Integrated Development Environment.md",
     "✅Short knowledge/Pull Request.md",
     "✅Short knowledge/version control system.md",
