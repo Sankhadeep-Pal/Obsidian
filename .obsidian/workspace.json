@@ -42,7 +42,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252
+    "width": 200
   },
   "right": {
     "id": "e6411fbcd6408233",
@@ -148,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252
+    "width": 381.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,19 +162,21 @@
   },
   "active": "d723c75ffe0a0241",
   "lastOpenFiles": [
+    "📔Notes/1. Git & GitHub Notes.md",
+    "📔Notes/3. CSS Notes.md",
+    "📔Notes/2. HTML Notes.md",
+    "📦Assets/Screenshot From 2025-06-22 11-57-55.png",
     "📦Assets/Screenshot From 2025-06-19 21-54-56.png",
+    "📦Assets/Screenshot From 2025-06-18 11-51-52.png",
     "📦Assets/Screenshot From 2025-06-11 18-30-19.png",
+    "📦Assets/Screenshot From 2025-06-04 22-33-25.png",
     "📦Assets/Initializing through GitHub then clone it.canvas",
     "📦Assets/git-cheat-sheet-education.pdf",
     "📦Assets/6076c72b-06d5-48c2-8fbc-a9442b75c05a.png",
-    "📔Notes/3. CSS Notes.md",
-    "📔Notes/2. HTML Notes.md",
-    "📔Notes/1. Git & GitHub Notes.md",
     "💬Roughs/Untitled.md",
     "📦Assets/html.pdf",
     "📦Assets/css.pdf",
     "📔Notes/3. CSS Notes 1.md",
-    "📦Assets/Screenshot From 2025-06-18 11-51-52.png",
     "✅Short knowledge/Hexadecimal.md",
     "📦Assets/Working on local system then create & upload it To GitHub.canvas",
     "✅Short knowledge/SEO.md",
@@ -184,7 +186,6 @@
     "✅Short knowledge/version control system.md",
     "✅Short knowledge/personal access token.md",
     "✅Short knowledge",
-    "📦Assets/Screenshot From 2025-06-04 22-33-25.png",
     "Working on local system then create & upload it To GitHub.md",
     "Creating new repo without README.md.canvas",
     "2025-06-03.md",
