@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b1271f74bdf6fe1d",
+        "id": "275731c5e4aeb083",
         "type": "tabs",
         "children": [
           {
-            "id": "d723c75ffe0a0241",
+            "id": "6bf9fbe5ac430c6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e6411fbcd6408233",
@@ -160,10 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d723c75ffe0a0241",
+  "active": "6bf9fbe5ac430c6b",
   "lastOpenFiles": [
-    "📦Assets/Screenshot From 2025-06-25 19-52-27.png",
     "📔Notes/3. CSS Notes.md",
+    "📦Assets/Screenshot From 2025-06-25 19-52-27.png",
     "📔Notes/1. Git & GitHub Notes.md",
     "📔Notes/2. HTML Notes.md",
     "📦Assets/Screenshot From 2025-06-22 11-57-55.png",
