@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiJavascript",
+      "🛠",
       "SiGithub",
       "SiCss3",
-      "SiHtml5",
-      "🇹🇬",
-      "LiTerminalSquare"
+      "SiHtml5"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,7 @@
   "📜Instructions/Removing old kernel.md": "LiTerminalSquare",
   "📔Notes/1. Git & GitHub Notes.md": "SiGithub",
   "📔Notes/2. HTML Notes.md": "SiHtml5",
-  "📔Notes/3. CSS Notes.md": "SiCss3"
+  "📔Notes/3. CSS Notes.md": "SiCss3",
+  "📜Instructions/PCIe Bus Error Debugging.md": "🛠",
+  "📔Notes/4. Javascript Notes.md": "SiJavascript"
 }
