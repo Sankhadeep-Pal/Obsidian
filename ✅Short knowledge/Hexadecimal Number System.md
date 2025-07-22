@@ -1,4 +1,5 @@
 # Hexadecimal Number System
+
 The **hexadecimal number system** (or **hex**) is a **base-16** number system. That means each digit can represent **16 different values**, unlike the decimal system (base-10), which only uses 10 digits (0–9).
 
 ### Digits in Hexadecimal:

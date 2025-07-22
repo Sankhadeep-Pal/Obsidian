@@ -1,4 +1,5 @@
 # Version Control System
+
 A **Version Control System (VCS)** is a tool that helps manage changes to source code or documents over time. It allows multiple people to collaborate, track revisions, and revert to earlier versions when necessary.
 
 There are two main types:

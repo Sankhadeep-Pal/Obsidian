@@ -1,4 +1,5 @@
 # Pull Request
+
 A **pull request (PR)** is a method used in collaborative software development—especially with **Git** and platforms like **GitHub, GitLab, or Bitbucket**—to propose changes to a codebase.
 
 ### What Is a Pull Request?

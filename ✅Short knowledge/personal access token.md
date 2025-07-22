@@ -1,4 +1,5 @@
 # Personal Access Token
+
 If we use our system terminal to upload local repository to remote repository on GitHub via HTTPS, we need a PAT.
 ## Process to create Personal Access Token
 #### 1. **Log In to GitHub**

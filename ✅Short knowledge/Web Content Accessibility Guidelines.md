@@ -1,4 +1,5 @@
-### ✅ What is WCAG?
+# Web Content Accessibility Guidelines
+
 **WCAG** stands for **Web Content Accessibility Guidelines**.
 
 It's a set of international standards published by the **W3C (World Wide Web Consortium)** to help make web content **more accessible** to people with disabilities—including visual, auditory, physical, speech, cognitive, and neurological disabilities.
@@ -18,7 +19,6 @@ WCAG helps ensure that your website is:
 ## 🎨 In Terms of CSS, WCAG Covers Things Like:
 
 ### 1. **Color Contrast**
-
 Text should have enough contrast with its background.
 
 - Example:
