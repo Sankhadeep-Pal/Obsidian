@@ -3,7 +3,6 @@
 The **DOM** stands for **Document Object Model**.
 
 ### 📘 In Simple Terms:
-
 The **DOM is a programming interface** for web documents. It represents the structure of a web page as a **tree of objects** that you can interact with using JavaScript.
 
 ### 🧱 Example:
@@ -25,7 +24,7 @@ The **DOM** turns it into a tree-like structure like this:
 Document
 └── html
     └── body
-        ├── h1
+        ├── h1m--
         └── p
 ```
 
