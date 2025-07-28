@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Assets",
   "showLineNumber": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "vimMode": false
 }
