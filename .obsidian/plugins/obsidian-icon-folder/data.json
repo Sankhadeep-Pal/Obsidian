@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiPercent",
-      "SiTcs",
-      "SiJavascript",
-      "🛠",
-      "SiGithub"
+      "SiMongodb",
+      "LiArrowRightSquare",
+      "SiMysql",
+      "RiNodejsFill",
+      "SiExpress"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,11 @@
   "📜Instructions/PCIe Bus Error Debugging.md": "🛠",
   "📔Notes/4. JavaScript Notes.md": "SiJavascript",
   "📔Notes/💼Aptitude Notes/Quantitative Aptitude": "SiTcs",
-  "📔Notes/💼Aptitude Notes/Quantitative Aptitude/Percentages.md": "LiPercent"
+  "📔Notes/💼Aptitude Notes/Quantitative Aptitude/Percentages.md": "LiPercent",
+  "📔Notes/5. Node.js Notes.md": "SiNodedotjs",
+  "📜Instructions/Clean Code Summary.md": "SiCodefactor",
+  "📔Notes/6. Express.js Notes.md": "SiExpress",
+  "📔Notes/7. MySQL Notes.md": "SiMysql",
+  "📔Notes/8. SQL_With_Node Walkthrough.md": "LiArrowRightSquare",
+  "📔Notes/9. MongoDB Notes.md": "SiMongodb"
 }
