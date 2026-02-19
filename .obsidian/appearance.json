@@ -3,8 +3,12 @@
   "accentColor": "",
   "showViewHeader": false,
   "showRibbon": true,
-  "nativeMenus": true,
+  "nativeMenus": false,
   "theme": "obsidian",
   "baseFontSizeAction": true,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [],
+  "baseFontSize": 16,
+  "monospaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "Cousine Nerd Font",
+  "interfaceFontFamily": ""
 }
