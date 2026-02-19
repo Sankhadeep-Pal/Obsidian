@@ -1,8 +1,11 @@
 {
+  "zoom": 120,
   "foldHeading": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Assets",
   "showLineNumber": false,
   "showInlineTitle": false,
-  "vimMode": false
+  "vimMode": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "💬Roughs"
 }

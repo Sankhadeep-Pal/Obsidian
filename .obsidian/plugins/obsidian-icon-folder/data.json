@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiMongodb",
-      "LiArrowRightSquare",
-      "SiMysql",
-      "RiNodejsFill",
-      "SiExpress"
+      "LiMonitor",
+      "LiSearch",
+      "RiFlowChart",
+      "SiCplusplusbuilder",
+      "SiMongodb"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,9 @@
   "📔Notes/6. Express.js Notes.md": "SiExpress",
   "📔Notes/7. MySQL Notes.md": "SiMysql",
   "📔Notes/8. SQL_With_Node Walkthrough.md": "LiArrowRightSquare",
-  "📔Notes/9. MongoDB Notes.md": "SiMongodb"
+  "📔Notes/9. MongoDB Notes.md": "SiMongodb",
+  "📔Notes/11. C++ Notes.md": "SiCplusplusbuilder",
+  "📔Notes/10. Flowchart & pseudocode Notes.md": "RiFlowChart",
+  "📜Instructions/Rofi Config.md": "LiSearch",
+  "📜Instructions/Notes of .desktop files.md": "LiMonitor"
 }

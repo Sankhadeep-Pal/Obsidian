@@ -15,4 +15,12 @@ GRUB_CMDLINE_LINUX="rd.luks.uuid=luks-5e8292c6-c261-4621-9b33-06706314b56b rhgb 
 - `pcie_aspm=off` stops PCIe power-save (The main cause of the problem).
 - `pci=noaer` suppresses the error (optional).
 
+
+- **Update the grub** using:
+
+```bash
+sudo grub2-mkconfig -o /boot/grub2/grub.cfg
+```
+
+
 ---
