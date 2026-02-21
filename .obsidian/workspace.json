@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📜Instructions/Rofi Config.md",
+                "file": "README.md.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Rofi Config"
+              "title": "README.md"
             }
           }
         ]
@@ -134,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📜Instructions/Rofi Config.md",
+                "file": "README.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rofi Config"
+              "title": "Outline of README.md"
             }
           },
           {
@@ -179,6 +179,9 @@
   },
   "active": "b60ec563f3fde516",
   "lastOpenFiles": [
+    "📔Notes/4. JavaScript Notes.md",
+    "README.md.md",
+    "📜Instructions/Rofi Config.md",
     "📜Instructions/Removing old kernel.md",
     "📜Instructions/PCIe Bus Error Debugging.md",
     "📔Notes/11. C++ Notes.md",
@@ -186,13 +189,11 @@
     "📔Notes/6. Express.js Notes.md",
     "📔Notes/1. Git & GitHub Notes.md",
     "📜Instructions/Notes of .desktop files.md",
-    "📜Instructions/Rofi Config.md",
     "📔Notes/2. HTML Notes.md",
     "💬Roughs/Untitled.md",
     "💬Roughs/assignments.md",
     "💬Roughs/21st_Dec_(Day_1).md",
     "poem.md",
-    "📔Notes/4. JavaScript Notes.md",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled.canvas",
@@ -214,7 +215,6 @@
     "📦Assets/Unconfirmed 126389.crdownload",
     "✅Short knowledge/XML.md",
     "✅Short knowledge/JSON.md",
-    "✅Short knowledge/API.md",
     "📦Assets/Screenshot From 2025-07-13 22-47-50.png",
     "📦Assets/Screenshot From 2025-07-13 22-26-43.png",
     "📦Assets/Screenshot From 2025-07-13 21-57-58.png",
