@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiAssembly",
       "LiMonitor",
       "LiSearch",
       "RiFlowChart",
-      "SiCplusplusbuilder",
-      "SiMongodb"
+      "SiCplusplusbuilder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -51,5 +51,6 @@
   "📔Notes/11. C++ Notes.md": "SiCplusplusbuilder",
   "📔Notes/10. Flowchart & pseudocode Notes.md": "RiFlowChart",
   "📜Instructions/Rofi Config.md": "LiSearch",
-  "📜Instructions/Notes of .desktop files.md": "LiMonitor"
+  "📜Instructions/Notes of .desktop files.md": "LiMonitor",
+  "📔Notes/12. Assembly x86-64 Notes.md": "TiAssembly"
 }
