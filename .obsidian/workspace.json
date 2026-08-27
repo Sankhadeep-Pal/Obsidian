@@ -60,7 +60,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -158,7 +160,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Git & GitHub Notes"
+              "title": "Outline"
             }
           },
           {
@@ -197,14 +199,16 @@
   },
   "active": "3018717d1327b17c",
   "lastOpenFiles": [
+    "📔Notes/6. Express.js Notes.md",
+    "📔Notes/1. Git & GitHub Notes.md",
+    "📔Notes/7. MySQL Notes.md",
+    "📔Notes/5. Node.js Notes.md",
     "📔Notes/12. Assembly x86-64 Notes.md",
     "📔Notes/11. C++ Notes.md",
-    "📔Notes/6. Express.js Notes.md",
     "📔Notes/8. SQL_With_Node Walkthrough.md",
     "📔Notes/10. Flowchart & pseudocode Notes.md",
     "📔Notes/2. HTML Notes.md",
     "💬Roughs/plans and seminars.md",
-    "📔Notes/1. Git & GitHub Notes.md",
     "📦Assets/Working on local system then create & upload it To GitHub.canvas",
     "💬Roughs/assignments.md",
     "💬Roughs/now.md",
@@ -224,8 +228,6 @@
     "Untitled 1.base",
     "Untitled.canvas",
     "📔Notes/9. MongoDB Notes.md",
-    "📔Notes/7. MySQL Notes.md",
-    "📔Notes/5. Node.js Notes.md",
     "📦Assets/Screenshot From 2025-10-26 19-36-06.png",
     "📦Assets/Screenshot From 2025-10-27 08-50-41.png",
     "📦Assets/mongodb_tuning_flowchart.png",
